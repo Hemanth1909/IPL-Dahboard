@@ -1,0 +1,59 @@
+/* Write your CSS here */
+
+.recent-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 70vw;
+}
+
+.main-team-matches-container {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  /* width: 73%; */
+}
+
+.latest-matches-heading {
+  align-self: flex-start;
+  margin-left: 200px;
+  color: white;
+  font-family: 'Bree serif';
+}
+
+.DC {
+  background-color: #5755a7;
+}
+
+.RCB {
+  background-color: #d91c1f;
+}
+
+.SH {
+  background-color: #f26d22;
+}
+
+.RR {
+  background-color: #da237b;
+}
+
+.KXP {
+  background-color: #a4261d;
+}
+
+.KKR {
+  background-color: #4f5db0;
+}
+
+.CSK {
+  background-color: #f7db00;
+}
+
+.MI {
+  background-color: #13418b;
+}
+
+.team-banner {
+  width: 75vw;
+}

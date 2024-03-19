@@ -1,0 +1,30 @@
+/* Write your CSS here */
+
+.latest-match-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 73vw;
+  background-color: #1e293b;
+  color: white;
+  padding: 15px;
+  font-family: 'Bree Serif';
+  align-self: center;
+}
+
+.opp-logo {
+  height: 10vw;
+}
+
+.opp-team {
+  font-size: 20px;
+}
+
+.match-date {
+  font-size: 18px;
+  margin-top: 15px;
+}
+
+.bottom-text {
+  font-size: 12px;
+}
